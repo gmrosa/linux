@@ -1,0 +1,4 @@
+    <static>
+        <duration>$duration</duration>
+        <file>$photo</file>
+    </static>
